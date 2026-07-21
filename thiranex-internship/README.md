@@ -7,6 +7,7 @@ This repo contains my submissions for the Thiranex internship tasks. All three a
 | 1 | Student Management System | [`01-student-management-system`](./01-student-management-system) |
 | 2 | Bank Management Application | [`02-bank-management-application`](./02-bank-management-application) |
 | 3 | Library Management System | [`03-library-management-system`](./03-library-management-system) |
+| 4 | Mini Game Project (Tic Tac Toe) | [`04-mini-game-tic-tac-toe`](./04-mini-game-tic-tac-toe) |
 
 Each folder is a self-contained project with its own `main.cpp`, `Makefile`, and `README.md` explaining what it does and how to run it.
 
